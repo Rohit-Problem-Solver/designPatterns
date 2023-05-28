@@ -1,0 +1,14 @@
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.AssemblyReference.cache
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+E:\Rohit Folder\New Learning\0.C# DotNet Learning\SOLID & DesignPattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache

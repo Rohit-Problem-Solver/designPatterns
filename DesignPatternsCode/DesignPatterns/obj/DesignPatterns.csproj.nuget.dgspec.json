@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Rohit Folder\\New Learning\\0.C# DotNet Learning\\SOLID & DesignPattern\\DesignPatternsCode\\DesignPatterns\\DesignPatterns.csproj": {}
+  },
+  "projects": {
+    "E:\\Rohit Folder\\New Learning\\0.C# DotNet Learning\\SOLID & DesignPattern\\DesignPatternsCode\\DesignPatterns\\DesignPatterns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Rohit Folder\\New Learning\\0.C# DotNet Learning\\SOLID & DesignPattern\\DesignPatternsCode\\DesignPatterns\\DesignPatterns.csproj",
+        "projectName": "DesignPatterns",
+        "projectPath": "E:\\Rohit Folder\\New Learning\\0.C# DotNet Learning\\SOLID & DesignPattern\\DesignPatternsCode\\DesignPatterns\\DesignPatterns.csproj",
+        "packagesPath": "C:\\Users\\Rohit.Negi\\.nuget\\packages\\",
+        "outputPath": "E:\\Rohit Folder\\New Learning\\0.C# DotNet Learning\\SOLID & DesignPattern\\DesignPatternsCode\\DesignPatterns\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rohit.Negi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.hub.preqin.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

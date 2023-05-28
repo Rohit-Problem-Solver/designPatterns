@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HKezQdDn68e8EdYI/U4V5S930ElgS/6EugyLZm10tEhJPuD7wc2LT5Jew6yHptNiDnOoye7uQzZ+CApPDxSShQ==",
+  "success": true,
+  "projectFilePath": "E:\\Rohit Folder\\New Learning\\0.C# DotNet Learning\\SOLID & DesignPattern\\DesignPatternsCode\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohit.Negi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
